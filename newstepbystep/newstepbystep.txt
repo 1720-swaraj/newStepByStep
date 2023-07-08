@@ -1,0 +1,12 @@
+1.create repositry on git hub 
+2.on cmd :
+> git remote add origin <repoURL>
+> git push -u origin master
+|
+ -> username
+    password
+
+if password is not working
+got to profile -> settings -> developer option ->generate classic token
+
+
